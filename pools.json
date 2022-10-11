@@ -189,5 +189,14 @@
     "searchStrings": [
       "gemlink-pool"
     ]
+  },
+  {
+    "poolName": "PMP Mining",
+    "url": "https://pool.pmpmining.com/",
+    "searchStrings": [
+      "pool.pmpmining.com",
+      "PMP Mining",
+      "pmpmining
+    ]
   }
 ]
